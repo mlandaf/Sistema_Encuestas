@@ -1,0 +1,5 @@
+a)Muy buena 
+b)Buena 
+c)Regular
+d)Mala
+e)Muy mala

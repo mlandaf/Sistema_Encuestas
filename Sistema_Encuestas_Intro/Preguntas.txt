@@ -1,0 +1,6 @@
+1(DIFICULTAD) ¿Como valora la atencion recibida por parte de nuestro personal?
+2(DIFICULTAD) ¿Como de satisfecho/a esta con el producto o servicio?  
+3(DIFICULTAD) ¿Que le ha parecido la relacion entre la calidad ofrecida y el precio?
+4(DIFICULTAD) ¿Como valora la atencion recibida por parte de nuestro personal?  
+5(DIFICULTAD) ¿Que le ha parecido la relacion entre la calidad ofrecida y el precio?
+ 
